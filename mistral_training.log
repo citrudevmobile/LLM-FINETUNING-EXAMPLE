@@ -1,0 +1,15 @@
+2025-08-06 10:17:12,212 - INFO - Starting Mistral fine-tuning for OnlyFans content generation
+2025-08-06 10:17:12,212 - INFO - Current timestamp: 2025-08-06 10:17:12
+2025-08-06 10:17:12,212 - INFO - Creating sample dataset at ./sexting_dataset.json
+2025-08-06 10:17:12,213 - INFO - Sample dataset created successfully
+2025-08-06 10:17:12,213 - INFO - Initializing accelerator for CPU
+2025-08-06 10:17:12,218 - INFO - Using device: cpu
+2025-08-06 10:17:12,219 - INFO - Setting up quantization configuration for CPU
+2025-08-06 10:17:12,220 - INFO - Quantization config created successfully
+2025-08-06 10:17:12,221 - INFO - Loading model: mistralai/Mistral-7B-v0.1
+2025-08-06 10:17:12,434 - ERROR - Model loading failed: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/mistralai/Mistral-7B-v0.1.
+401 Client Error. (Request ID: Root=1-68932ba8-2fd0251c5ffad5150a985dbd;9f985831-e915-4c1e-b18e-0b7463e73e52)
+
+Cannot access gated repo for url https://huggingface.co/mistralai/Mistral-7B-v0.1/resolve/main/config.json.
+Access to model mistralai/Mistral-7B-v0.1 is restricted. You must have access to it and be authenticated to access it. Please log in.
