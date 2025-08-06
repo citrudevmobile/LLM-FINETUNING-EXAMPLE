@@ -35,3 +35,9 @@ A lightweight implementation for fine-tuning the Zephyr-7B language model on con
 
 ```bash
 pip install torch transformers datasets peft accelerate bitsandbytes sentencepiece
+```
+
+## Run the training script:
+```bash
+python zephyr_finetune.py
+```
