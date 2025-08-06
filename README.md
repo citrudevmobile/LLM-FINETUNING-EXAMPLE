@@ -15,6 +15,19 @@ A lightweight implementation for fine-tuning the Zephyr-7B language model on con
 - Pip package manager
 - 16GB+ RAM recommended
 
+## Quick Start
+
+1. Prepare your dataset in JSON format (`input_dataset.json`):
+
+```json
+[
+  {
+    "prompt": "your prompt text",
+    "response": "desired model response"
+  }
+]
+```
+
 ## Installation
 
 1. Clone this repository
