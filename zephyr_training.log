@@ -1,6 +1,6 @@
 2025-08-06 10:21:52,987 - INFO - Starting Zephyr fine-tuning for OnlyFans content generation
 2025-08-06 10:21:52,987 - INFO - Current timestamp: 2025-08-06 10:21:52
-2025-08-06 10:21:52,987 - INFO - Creating sample dataset at ./sexting_dataset.json
+2025-08-06 10:21:52,987 - INFO - Creating sample dataset at ./input_dataset.json
 2025-08-06 10:21:52,988 - INFO - Sample dataset created successfully
 2025-08-06 10:21:52,989 - INFO - Initializing accelerator for CPU
 2025-08-06 10:21:52,992 - INFO - Using device: cpu
